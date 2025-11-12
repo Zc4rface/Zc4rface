@@ -4,9 +4,10 @@
 
 I'm a 4th-year Computer Engineering undergraduate at the Universidad Nacional de Trujillo.
 
-💡 I'm passionate about software development, security, and optimization — areas where creativity meets problem-solving.
-🔭 I’m currently focused on strengthening my skills in software engineering, exploring new ways to build efficient and secure systems.
-💬 I enjoy talking about technology, science, and ideas that challenge the way we think.
+💡 I'm passionate about software development, security, and optimization, combining analytical thinking with creativity to build efficient solutions.
+🧠 I have strong foundations in Object-Oriented Programming, Data Structures, and Algorithmic Strategies — from classic paradigms to advanced problem-solving.
+🔭 I’m currently focused on enhancing my skills in software engineering and secure system design, while exploring modern technologies and development practices.
+💬 I enjoy discussing technology, science, and ideas that challenge the way we think.
 
 ## My Skills Include
 
